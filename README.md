@@ -29,7 +29,7 @@ Then extract the whole zip file at the root of your SD card.
 ### Tools
 
 - [XCI_Trimmer ed672240](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
-- [XCI-Explorer v1.4.3](https://github.com/StudentBlake/XCI-Explorer): A decompiled version of XCI Explorer using ILSpy
+- [XCI-Explorer v1.4.4](https://github.com/StudentBlake/XCI-Explorer): A decompiled version of XCI Explorer using ILSpy
 
 ### CFW
 
