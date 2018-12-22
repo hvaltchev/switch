@@ -24,7 +24,7 @@ Then extract the whole zip file at the root of your SD card.
 - [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [ReiNXToolkit](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v1.0.2](https://sx.xecuter.com/): Dump your retail game cartridges
-- [Tinfoil a14ea6a](https://github.com/Adubbz/Tinfoil): Nintendo Switch homebrew to manage titles
+- [Tinfoil abef7e3](https://github.com/Adubbz/Tinfoil): Nintendo Switch homebrew to manage titles
 
 ### Tools
 
@@ -40,11 +40,11 @@ Then extract the whole zip file at the root of your SD card.
 
 #### ReiNX
 
-- [ReiNX latest (2018-09-28)](https://github.com/Reisyukaku/ReiNX): A modular Switch custom firmware
+- [ReiNX latest (2018-12-20)](https://reinx.guide/builds): A modular Switch custom firmware
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
 - Galaxy Theme (titleid 0100000000001000)
-- [ldn_mitm sysmodule v0.1.3](https://github.com/spacemeowx2/ldn_mitm) (906b674)
+- [ldn_mitm sysmodule v0.2.2](https://github.com/spacemeowx2/ldn_mitm)
 
 ## Troubleshootings
 
