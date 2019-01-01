@@ -20,6 +20,7 @@ Then extract the whole zip file at the root of your SD card.
 - [ftpd v2.2.0-947dc137](https://github.com/WinterMute/ftpd): FTP Server
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v3.0.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
+- [ldnmitm config v1.1.1](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [ReiNXToolkit (2018-12-20)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v1.0.3](https://sx.xecuter.com/): Dump your retail game cartridges
@@ -43,7 +44,7 @@ Then extract the whole zip file at the root of your SD card.
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
 - Galaxy Theme (titleid 0100000000001000)
-- [ldn_mitm sysmodule v0.2.2](https://github.com/spacemeowx2/ldn_mitm)
+- [ldn_mitm sysmodule v1.1.1](https://github.com/spacemeowx2/ldn_mitm)
 
 ## Troubleshootings
 
