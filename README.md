@@ -40,11 +40,11 @@ Then extract the whole zip file at the root of your SD card.
 
 #### ReiNX
 
-- [ReiNX latest (2018-12-20)](https://reinx.guide/builds): A modular Switch custom firmware
+- [ReiNX latest (2018-12-24)](https://reinx.guide/builds): A modular Switch custom firmware
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
 - Galaxy Theme (titleid 0100000000001000)
-- [ldn_mitm sysmodule v1.1.1](https://github.com/spacemeowx2/ldn_mitm)
+- [ldn_mitm sysmodule v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
 
 ## Troubleshootings
 
