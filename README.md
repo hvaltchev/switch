@@ -21,7 +21,7 @@ Then extract the whole zip file at the root of your SD card.
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v3.0.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [ldnmitm config v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
-- [NX-Shell - Beta Release 5](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
+- [NX-Shell v1.20](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [ReiNXToolkit (2018-12-20)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v1.0.3](https://sx.xecuter.com/): Dump your retail game cartridges
 - [Tinfoil v1.0](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
