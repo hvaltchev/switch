@@ -15,14 +15,14 @@ Then extract the whole zip file at the root of your SD card.
 
 - [appstore v2.0](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.6.0](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
-- [EdiZon v2.1.0](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
-- [EdiZon ConfigAndScripts 67004bbe](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
+- [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
+- [EdiZon ConfigAndScripts f4b955de](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3](https://github.com/mtheall/ftpd): FTP Server
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Homebrew Menu v3.0.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [ldnmitm config v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v1.20](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
-- [ReiNXToolkit (2018-12-20)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
+- [ReiNXToolkit (2019-03-10)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v1.0.3](https://sx.xecuter.com/): Dump your retail game cartridges
 - [Tinfoil v1.0](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
 
@@ -40,7 +40,7 @@ Then extract the whole zip file at the root of your SD card.
 
 #### ReiNX
 
-- [ReiNX latest (2019-02-24)](https://reinx.guide/builds): A modular Switch custom firmware
+- [ReiNX latest (2019-03-05)](https://reinx.guide/builds): A modular Switch custom firmware
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
 - Galaxy Theme (titleid 0100000000001000)
