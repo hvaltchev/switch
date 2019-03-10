@@ -36,14 +36,12 @@ Then extract the whole zip file at the root of your SD card.
 #### SX OS
 
 - [Xecuter SX OS v2.5.3](https://sx.xecuter.com/)
-- Hollow Knight Theme (titleid 0100000000001000)
 
 #### ReiNX
 
 - [ReiNX latest (2019-03-05)](https://reinx.guide/builds): A modular Switch custom firmware
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
-- Galaxy Theme (titleid 0100000000001000)
 - [ldn_mitm sysmodule v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
 
 ## Troubleshootings
