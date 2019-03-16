@@ -65,7 +65,7 @@ Nintendo Switch Bootloader - CTCaer mod.
 
 ### Mac and empty Homebrew Menu
 
-When booting into SX OS hbmenu I get the error "No applications could be found on the SD card. Make sure a folder named /switch exists in the root of the SD card and it contains applications.".
+> When booting into SX OS hbmenu I get the error "No applications could be found on the SD card. Make sure a folder named /switch exists in the root of the SD card and it contains applications.".
 
 In order to fix it, run in a terminal:
 
