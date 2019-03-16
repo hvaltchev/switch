@@ -41,14 +41,25 @@ Then extract the whole zip file at the root of your SD card.
 
 #### SX OS
 
+A Custom Firmware for Nintendo Switch.
+
 - [Xecuter SX OS v2.5.3](https://sx.xecuter.com/)
 
 #### ReiNX
+
+A modular Switch custom firmware.
 
 - [ReiNX latest (2019-03-05)](https://reinx.guide/builds): A modular Switch custom firmware
 - Homebrew menu over album (titleid 010000000000100D)
 - Creport (titleid 0100000000000036)
 - [ldn_mitm sysmodule v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
+
+#### hekate
+
+Nintendo Switch Bootloader - CTCaer mod.
+
+- [hekate - CTCaer mod v4.9.1](https://github.com/CTCaer/hekate/releases/tag/v4.9.1_): OFW supported: 7.0.1
+- [hekate - CTCaer mod v4.6 svc](https://github.com/CTCaer/hekate/releases/tag/v4.6svc): OFW supported: 6.2.0
 
 ## Troubleshootings
 
