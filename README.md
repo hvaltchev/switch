@@ -43,7 +43,7 @@ Then extract the whole zip file at the root of your SD card.
 
 A Custom Firmware for Nintendo Switch.
 
-- [Xecuter SX OS v2.6 beta](https://sx.xecuter.com/)
+- [Xecuter SX OS v2.6.1 beta](https://sx.xecuter.com/)
 
 #### ReiNX
 
