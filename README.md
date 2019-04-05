@@ -24,7 +24,7 @@ Then extract the whole zip file at the root of your SD card.
 - [ldnmitm config v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v1.20](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [NXThemes Installer v1.4](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
-- [ReiNXToolkit (2019-03-21)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
+- [ReiNXToolkit (2019-04-05)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v1.0.3](https://sx.xecuter.com/): Dump your retail game cartridges
 - [Tinfoil v1.55](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
 
@@ -49,8 +49,7 @@ A Custom Firmware for Nintendo Switch.
 
 A modular Switch custom firmware.
 
-- [ReiNX v2.1 (2019-03-21)](https://reinx.guide/builds): A modular Switch custom firmware
-- Creport (titleid 0100000000000036)
+- [ReiNX v2.1.1 (2019-04-05)](https://reinx.guide/builds): A modular Switch custom firmware
 - [ldn_mitm sysmodule v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
 
 #### hekate

@@ -1,13 +1,14 @@
-/Nintendo
+/Nintendo/
 *.xci
-*.bin
 *.nsp
-*.dat
 license.dat
 license-request.dat
-tmp/
-sxos/
-ReiNX/
+/sxos/
+/switch/games/
+/switch/xci/
+/switch/nsp/
+/nsps/
+/tmp/
 
 # OS generated files
 .DS_Store
