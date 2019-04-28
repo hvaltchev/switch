@@ -21,10 +21,10 @@ Then extract the whole zip file at the root of your SD card.
 - [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Goldleaf v0.5](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.0.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-- [ldnmitm config v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
+- [ldnmitm config v1.2.2](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v1.20](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [NXThemes Installer v1.4](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
-- [ReiNXToolkit (2019-04-05)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
+- [ReiNXToolkit (2019-04-28)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v1.0.3](https://sx.xecuter.com/): Dump your retail game cartridges
 - [Tinfoil v1.55](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
 
@@ -49,8 +49,8 @@ A Custom Firmware for Nintendo Switch.
 
 A modular Switch custom firmware.
 
-- [ReiNX v2.1.1 (2019-04-05)](https://reinx.guide/builds): A modular Switch custom firmware
-- [ldn_mitm sysmodule v1.1.2](https://github.com/spacemeowx2/ldn_mitm)
+- [ReiNX v2.2.1 (2019-04-28)](https://reinx.guide/builds): A modular Switch custom firmware
+- [ldn_mitm sysmodule v1.2.2](https://github.com/spacemeowx2/ldn_mitm)
 
 #### hekate
 
