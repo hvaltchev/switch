@@ -56,8 +56,7 @@ A modular Switch custom firmware.
 
 Nintendo Switch Bootloader - CTCaer mod.
 
-- [hekate - CTCaer mod v4.9.1](https://github.com/CTCaer/hekate/releases/tag/v4.9.1_): OFW supported: 7.0.1
-- [hekate - CTCaer mod v4.6 svc](https://github.com/CTCaer/hekate/releases/tag/v4.6svc): OFW supported: 6.2.0
+- [hekate - CTCaer mod v4.10.1](https://github.com/CTCaer/hekate/releases/tag/v4.9.1_): Latest OFW supported: 8.0.1
 
 ## Troubleshootings
 
