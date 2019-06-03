@@ -26,7 +26,7 @@ Then extract the whole zip file at the root of your SD card.
 - [NXThemes Installer v1.5](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [ReiNXToolkit (2019-04-28)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v2.0.0](https://sx.xecuter.com/): Dump your retail game cartridges
-- [Tinfoil v1.55](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
+- [Tinfoil v1.61](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
 
 ### Others
 
@@ -44,6 +44,7 @@ Then extract the whole zip file at the root of your SD card.
 A Custom Firmware for Nintendo Switch.
 
 - [Xecuter SX OS v2.7.1 beta](https://sx.xecuter.com/)
+- Run tinfoil instead of eShop (010000000000100B)
 
 #### ReiNX
 
@@ -51,12 +52,13 @@ A modular Switch custom firmware.
 
 - [ReiNX v2.2.1 (2019-04-28)](https://reinx.guide/builds): A modular Switch custom firmware
 - [ldn_mitm sysmodule v1.2.2](https://github.com/spacemeowx2/ldn_mitm)
+- Run tinfoil instead of eShop (010000000000100B)
 
 #### hekate
 
 Nintendo Switch Bootloader - CTCaer mod.
 
-- [hekate - CTCaer mod v4.10.1](https://github.com/CTCaer/hekate/releases/tag/v4.9.1_): Latest OFW supported: 8.0.1
+- [hekate - CTCaer mod v4.10.1](https://github.com/CTCaer/hekate/releases/tag/v4.10.1_): Latest OFW supported: 8.0.1
 
 ## Troubleshootings
 
