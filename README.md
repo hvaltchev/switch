@@ -18,7 +18,7 @@ Then extract the whole zip file at the root of your SD card.
 - [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts 582a51ba](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3](https://github.com/mtheall/ftpd): FTP Server
-- [gcdumptool v1.0.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
+- [gcdumptool v1.0.8](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Goldleaf v0.5](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.0.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [ldnmitm config v1.2.2](https://github.com/spacemeowx2/ldn_mitm)
