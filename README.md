@@ -43,7 +43,7 @@ Then extract the whole zip file at the root of your SD card.
 
 A Custom Firmware for Nintendo Switch.
 
-- [Xecuter SX OS v2.7.1 beta](https://sx.xecuter.com/)
+- [Xecuter SX OS v2.8.O beta](https://sx.xecuter.com/)
 - Run tinfoil instead of eShop (010000000000100B)
 
 #### ReiNX
