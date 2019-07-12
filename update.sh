@@ -10,9 +10,6 @@ unzip EdiZon_ConfigsAndScripts.zip
 cp -rf EdiZon_CheatsConfigsAndScripts-master/Configs/* ../EdiZon/editor/
 cp -rf EdiZon_CheatsConfigsAndScripts-master/Scripts/* ../EdiZon/editor/scripts
 
-# Update ReiNXToolkit
-wget https://reinx.guide/downloads/ReiNXToolkit.nro -O ../switch/ReiNXToolkit.nro
-
 # Clean temp directory
 cd ..
 rm -rf tmp

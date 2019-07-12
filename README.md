@@ -16,17 +16,17 @@ Then extract the whole zip file at the root of your SD card.
 - [appstore v2.1](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.6.0](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
 - [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
-- [EdiZon ConfigAndScripts 582a51ba](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
+- [EdiZon ConfigAndScripts cc79af5c](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3](https://github.com/mtheall/ftpd): FTP Server
-- [gcdumptool v1.0.8](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [Goldleaf v0.5](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.0.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-- [ldnmitm config v1.2.2](https://github.com/spacemeowx2/ldn_mitm)
-- [NX-Shell v1.20](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
-- [NXThemes Installer v1.5](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
-- [ReiNXToolkit (2019-04-28)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
+- [ldnmitm config v1.2.3](https://github.com/spacemeowx2/ldn_mitm)
+- [NX-Shell v2.00](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
+- [nxdumptool v1.1.2](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
+- [NXThemes Installer v1.6.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
+- [ReiNXToolkit (2019-06-22)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v2.0.0](https://sx.xecuter.com/): Dump your retail game cartridges
-- [Tinfoil v1.61](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
+- [Tinfoil v1.63](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
 
 ### Others
 
@@ -35,7 +35,7 @@ Then extract the whole zip file at the root of your SD card.
 ### Tools
 
 - [XCI_Trimmer ed672240](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
-- [XCI-Explorer v1.4.4](https://github.com/StudentBlake/XCI-Explorer): View contents of XCI files and more
+- [XCI-Explorer v1.4.7](https://github.com/StudentBlake/XCI-Explorer): View contents of XCI files and more
 
 ### CFW
 
@@ -43,22 +43,22 @@ Then extract the whole zip file at the root of your SD card.
 
 A Custom Firmware for Nintendo Switch.
 
-- [Xecuter SX OS v2.8.O beta](https://sx.xecuter.com/)
+- [Xecuter SX OS v2.8.0 beta](https://sx.xecuter.com/)
 - Run tinfoil instead of eShop (010000000000100B)
 
 #### ReiNX
 
 A modular Switch custom firmware.
 
-- [ReiNX v2.2.1 (2019-04-28)](https://reinx.guide/builds): A modular Switch custom firmware
-- [ldn_mitm sysmodule v1.2.2](https://github.com/spacemeowx2/ldn_mitm)
+- [ReiNX v2.4 (2019-06-22)](https://reinx.guide/builds): A modular Switch custom firmware
+- [ldn_mitm sysmodule v1.2.3](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
 
 #### hekate
 
 Nintendo Switch Bootloader - CTCaer mod.
 
-- [hekate - CTCaer mod v4.10.1](https://github.com/CTCaer/hekate/releases/tag/v4.10.1_): Latest OFW supported: 8.0.1
+- [hekate - CTCaer mod v5.0.1 & Nyx v0.8.1](https://github.com/CTCaer/hekate): Latest OFW supported: 8.1.0
 
 ## Troubleshootings
 
