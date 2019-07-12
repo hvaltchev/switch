@@ -25,7 +25,7 @@ Then extract the whole zip file at the root of your SD card.
 - [nxdumptool v1.1.2](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [NXThemes Installer v1.6.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [ReiNXToolkit (2019-06-22)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
-- [SX Dumper v2.0.0](https://sx.xecuter.com/): Dump your retail game cartridges
+- [SX Dumper v2.0.4](https://sx.xecuter.com/): Dump your retail game cartridges
 - [Tinfoil v1.63](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
 
 ### Others
