@@ -17,12 +17,12 @@ Then extract the whole zip file at the root of your SD card.
 - [Checkpoint v3.7.2](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
 - [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts 2258b1b9](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
-- [ftpd v2.3](https://github.com/mtheall/ftpd): FTP Server
-- [Goldleaf v0.6.1](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
+- [ftpd v2.3.1](https://github.com/mtheall/ftpd): FTP Server
+- [Goldleaf v0.7.2](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.1.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-- [ldnmitm config v1.2.3](https://github.com/spacemeowx2/ldn_mitm)
+- [ldnmitm config v1.2.6](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v2.00](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
-- [nxdumptool v1.1.4](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
+- [nxdumptool v1.1.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [NXThemes Installer v2.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [ReiNXToolkit (2019-06-22)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v2.0.4R](https://sx.xecuter.com/): Dump your retail game cartridges
@@ -51,7 +51,7 @@ A Custom Firmware for Nintendo Switch.
 A modular Switch custom firmware.
 
 - [ReiNX v2.4 (2019-06-22)](https://reinx.guide/builds): A modular Switch custom firmware
-- [ldn_mitm sysmodule v1.2.3](https://github.com/spacemeowx2/ldn_mitm)
+- [ldn_mitm sysmodule v1.2.6](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
 
 #### hekate
