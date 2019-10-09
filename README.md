@@ -24,7 +24,7 @@ Then extract the whole zip file at the root of your SD card.
 - [NX-Shell v2.00](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [nxdumptool v1.1.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [NXThemes Installer v2.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
-- [ReiNXToolkit (2019-06-22)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
+- [ReiNXToolkit (2019-10-09)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v2.0.4R](https://sx.xecuter.com/): Dump your retail game cartridges
 - [Tinfoil v5.00](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
 
@@ -50,7 +50,7 @@ A Custom Firmware for Nintendo Switch.
 
 A modular Switch custom firmware.
 
-- [ReiNX v2.4 (2019-06-22)](https://reinx.guide/builds): A modular Switch custom firmware
+- [ReiNX (2019-10-09)](https://reinx.guide/builds): A modular Switch custom firmware
 - [ldn_mitm sysmodule v1.2.6](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
 
