@@ -16,12 +16,12 @@ Then extract the whole zip file at the root of your SD card.
 - [appstore v2.1](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.7.2](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
 - [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
-- [EdiZon ConfigAndScripts 3f5a96ef](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
+- [EdiZon ConfigAndScripts ede282a](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3.1](https://github.com/mtheall/ftpd): FTP Server
 - [Goldleaf v0.7.3](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.1.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [ldnmitm config v1.2.6](https://github.com/spacemeowx2/ldn_mitm)
-- [NX-Shell v2.00](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
+- [NX-Shell v2.11](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [nxdumptool v1.1.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [NXThemes Installer v2.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [ReiNXToolkit (2019-10-09)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
@@ -58,7 +58,7 @@ A modular Switch custom firmware.
 
 Nintendo Switch Bootloader - CTCaer mod.
 
-- [hekate - CTCaer mod v5.0.2 & Nyx v0.8.2](https://github.com/CTCaer/hekate): Latest OFW supported: 9.0.0
+- [hekate - CTCaer mod v5.0.2 & Nyx v0.8.2](https://github.com/CTCaer/hekate): Latest OFW supported: 9.0.1
 
 ## Troubleshootings
 
