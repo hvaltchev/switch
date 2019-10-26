@@ -14,7 +14,7 @@ Then extract the whole zip file at the root of your SD card.
 ### Homebrews
 
 - [appstore v2.1](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
-- [Checkpoint v3.7.2](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
+- [Checkpoint v3.7.3](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
 - [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts ede282a](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3.1](https://github.com/mtheall/ftpd): FTP Server
@@ -22,8 +22,8 @@ Then extract the whole zip file at the root of your SD card.
 - [Homebrew Menu v3.1.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
 - [ldnmitm config v1.2.6](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v2.11](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
-- [nxdumptool v1.1.5](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
-- [NXThemes Installer v2.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
+- [nxdumptool v1.1.6](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
+- [NXThemes Installer v2.1.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [ReiNXToolkit (2019-10-09)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v2.0.4R](https://sx.xecuter.com/): Dump your retail game cartridges
 - [Tinfoil v5.00](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
