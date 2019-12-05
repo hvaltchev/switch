@@ -3,7 +3,6 @@
 *.nsp
 license.dat
 license-request.dat
-/sxos/
 /switch/games/
 /switch/xci/
 /switch/nsp/
