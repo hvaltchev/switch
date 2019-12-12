@@ -43,7 +43,7 @@ Then extract the whole zip file at the root of your SD card.
 
 A Custom Firmware for Nintendo Switch.
 
-- [Xecuter SX OS v2.9.2 beta](https://sx.xecuter.com/)
+- [Xecuter SX OS v2.9.3 beta](https://sx.xecuter.com/): Latest OFW supported: 9.1.0
 - Run tinfoil instead of eShop (010000000000100B)
 - SX Autoloader v1.20 (00FF0012656180FF)
 
@@ -59,7 +59,7 @@ A modular Switch custom firmware.
 
 Nintendo Switch Bootloader - CTCaer mod.
 
-- [hekate - CTCaer mod v5.0.2 & Nyx v0.8.2](https://github.com/CTCaer/hekate): Latest OFW supported: 9.0.1
+- [hekate - CTCaer mod v5.1.1 & Nyx v0.8.4](https://github.com/CTCaer/hekate): Latest OFW supported: 9.1.0
 
 ## Troubleshootings
 
