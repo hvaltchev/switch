@@ -45,7 +45,6 @@ A Custom Firmware for Nintendo Switch.
 
 - [Xecuter SX OS v2.9.3 beta](https://sx.xecuter.com/): Latest OFW supported: 9.1.0
 - Run tinfoil instead of eShop (010000000000100B)
-- SX Autoloader v1.20 (00FF0012656180FF)
 
 #### ReiNX
 
