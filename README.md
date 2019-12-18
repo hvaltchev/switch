@@ -14,19 +14,19 @@ Then extract the whole zip file at the root of your SD card.
 ### Homebrews
 
 - [appstore v2.1](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
-- [Checkpoint v3.7.3](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
+- [Checkpoint v3.7.4](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
 - [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts 9689a56](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3.1](https://github.com/mtheall/ftpd): FTP Server
 - [Goldleaf v0.7.3](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
-- [Homebrew Menu v3.1.1](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-- [ldnmitm config v1.2.6](https://github.com/spacemeowx2/ldn_mitm)
+- [Homebrew Menu v3.2.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
+- [ldnmitm config v1.2.7](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v2.11](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
-- [nxdumptool v1.1.6](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
-- [NXThemes Installer v2.1.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
+- [nxdumptool v1.1.8](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
+- [NXThemes Installer v2.2](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [ReiNXToolkit (2019-10-09)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
 - [SX Dumper v2.0.4R](https://sx.xecuter.com/): Dump your retail game cartridges
-- [Tinfoil v6.10](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
+- [Tinfoil v7.00](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
 
 ### Others
 
@@ -35,7 +35,7 @@ Then extract the whole zip file at the root of your SD card.
 ### Tools
 
 - [XCI_Trimmer ed672240](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
-- [XCI-Explorer v1.4.7](https://github.com/StudentBlake/XCI-Explorer): View contents of XCI files and more
+- [XCI-Explorer v1.4.9](https://github.com/StudentBlake/XCI-Explorer): View contents of XCI files and more
 
 ### CFW
 
@@ -46,12 +46,13 @@ A Custom Firmware for Nintendo Switch.
 - [Xecuter SX OS v2.9.3 beta](https://sx.xecuter.com/): Latest OFW supported: 9.1.0
 - Run tinfoil instead of eShop (010000000000100B)
 
-#### ReiNX
+#### Atmosphère
 
-A modular Switch custom firmware.
+Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
-- [ReiNX (2019-10-09)](https://reinx.guide/builds): A modular Switch custom firmware
-- [ldn_mitm sysmodule v1.2.6](https://github.com/spacemeowx2/ldn_mitm)
+- [Atmosphère 0.10.1](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 9.1.0
+- ES and FS SIGPATCHES
+- [ldn_mitm sysmodule v1.2.7 (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
 
 #### hekate

@@ -1,8 +1,8 @@
 /Nintendo/
-*.xci
-*.nsp
-license.dat
-license-request.dat
+/*.xci
+/*.nsp
+/license.dat
+/license-request.dat
 /switch/games/
 /switch/xci/
 /switch/nsp/
