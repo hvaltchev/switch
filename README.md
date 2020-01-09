@@ -13,20 +13,19 @@ Then extract the whole zip file at the root of your SD card.
 
 ### Homebrews
 
-- [appstore v2.1](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
-- [Checkpoint v3.7.4](https://github.com/BernardoGiordano/Checkpoint/): Fast and simple homebrew save manager for 3DS and Switch
+- [appstore v2.2](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
+- [Checkpoint v3.7.4](https://github.com/BernardoGiordano/Checkpoint): Fast and simple homebrew save manager for 3DS and Switch
 - [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts 9689a56](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3.1](https://github.com/mtheall/ftpd): FTP Server
-- [Goldleaf v0.7.3](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
+- [Goldleaf v0.8](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.2.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-- [ldnmitm config v1.2.7](https://github.com/spacemeowx2/ldn_mitm)
+- [ldnmitm config v1.3.1-alpha](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v2.11](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [nxdumptool v1.1.8](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [NXThemes Installer v2.2](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
-- [ReiNXToolkit (2019-10-09)](https://github.com/Reisyukaku/ReiNXToolkit): A toolkit to be used with the ReiNX CFW
-- [SX Dumper v2.0.4R](https://sx.xecuter.com/): Dump your retail game cartridges
-- [Tinfoil v7.00](https://github.com/digableinc/tinfoil): A homebrew game, update, and DLC installer
+- [SX Dumper v2.0.4R](https://sx.xecuter.com): Dump your retail game cartridges
+- [Tinfoil v7.01](http://tinfoil.io): A homebrew game, update, and DLC installer
 
 ### Others
 
@@ -51,9 +50,9 @@ A Custom Firmware for Nintendo Switch.
 
 Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
-- [Atmosphère 0.10.1](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 9.1.0
+- [Atmosphère 0.10.2](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 9.1.0
 - ES and FS SIGPATCHES
-- [ldn_mitm sysmodule v1.2.7 (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
+- [ldn_mitm sysmodule v1.3.1-alpha (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
 
 #### hekate
