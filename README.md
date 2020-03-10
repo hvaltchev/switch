@@ -16,16 +16,16 @@ Then extract the whole zip file at the root of your SD card.
 - [appstore v2.2](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.7.4](https://github.com/BernardoGiordano/Checkpoint): Fast and simple homebrew save manager for 3DS and Switch
 - [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
-- [EdiZon ConfigAndScripts 9689a56](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
+- [EdiZon ConfigAndScripts 0139531](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3.1](https://github.com/mtheall/ftpd): FTP Server
 - [Goldleaf v0.8](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.2.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-- [ldnmitm config v1.3.1-alpha](https://github.com/spacemeowx2/ldn_mitm)
+- [ldnmitm config v1.3.3](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v2.11](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [nxdumptool v1.1.8](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
-- [NXThemes Installer v2.2](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
+- [NXThemes Installer v2.2.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [SX Dumper v2.0.4R](https://sx.xecuter.com): Dump your retail game cartridges
-- [Tinfoil v7.01](http://tinfoil.io): A homebrew game, update, and DLC installer
+- [Tinfoil v8.10](http://tinfoil.io): A homebrew game, update, and DLC installer
 
 ### Others
 
@@ -33,8 +33,8 @@ Then extract the whole zip file at the root of your SD card.
 
 ### Tools
 
-- [XCI_Trimmer ed672240](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
-- [XCI-Explorer v1.4.9](https://github.com/StudentBlake/XCI-Explorer): View contents of XCI files and more
+- [XCI_Trimmer c51a186](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
+- [XCI-Explorer v1.5.0](https://github.com/StudentBlake/XCI-Explorer): View contents of XCI files and more
 
 ### CFW
 
@@ -42,7 +42,7 @@ Then extract the whole zip file at the root of your SD card.
 
 A Custom Firmware for Nintendo Switch.
 
-- [Xecuter SX OS v2.9.3 beta](https://sx.xecuter.com/): Latest OFW supported: 9.1.0
+- [Xecuter SX OS v2.9.4 beta](https://sx.xecuter.com/): Latest OFW supported: 9.2.0
 - Run tinfoil instead of eShop (010000000000100B)
 - [SX Autoloader 1.30 (00FF0012656180FF)](https://team-xecuter.com/community/resources/sx-autoloader.25/updates)
 
@@ -50,16 +50,16 @@ A Custom Firmware for Nintendo Switch.
 
 Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
-- [Atmosphère 0.10.2](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 9.1.0
+- [Atmosphère 0.10.4](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 9.2.0
 - ES and FS SIGPATCHES
-- [ldn_mitm sysmodule v1.3.1-alpha (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
+- [ldn_mitm sysmodule v1.3.3 (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
 
 #### hekate
 
 Nintendo Switch Bootloader - CTCaer mod.
 
-- [hekate - CTCaer mod v5.1.1 & Nyx v0.8.4](https://github.com/CTCaer/hekate): Latest OFW supported: 9.1.0
+- [hekate - CTCaer mod v5.1.2 & Nyx v0.8.5](https://github.com/CTCaer/hekate): Latest OFW supported: 9.2.0
 
 ## Troubleshootings
 
