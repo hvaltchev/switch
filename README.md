@@ -15,8 +15,8 @@ Then extract the whole zip file at the root of your SD card.
 
 - [appstore v2.2](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.7.4](https://github.com/BernardoGiordano/Checkpoint): Fast and simple homebrew save manager for 3DS and Switch
-- [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
-- [EdiZon ConfigAndScripts 0139531](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
+- [EdiZon v12.12.2019](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
+- [EdiZon ConfigAndScripts v18b0055](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v2.3.1](https://github.com/mtheall/ftpd): FTP Server
 - [Goldleaf v0.8](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.2.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
@@ -26,7 +26,7 @@ Then extract the whole zip file at the root of your SD card.
 - [nxdumptool v1.1.8](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
 - [NXThemes Installer v2.2.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [SX Dumper v2.0.4R](https://sx.xecuter.com): Dump your retail game cartridges
-- [Tinfoil v8.10](http://tinfoil.io): A homebrew game, update, and DLC installer
+- [Tinfoil v8.10R36](http://tinfoil.io): A homebrew game, update, and DLC installer
 
 ### Others
 
