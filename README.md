@@ -20,6 +20,7 @@ Then extract the whole zip file at the root of your SD card.
 - [ftpd v2.3.1](https://github.com/mtheall/ftpd): FTP Server
 - [Goldleaf v0.8](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.2.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
+- [JKSV v04.10.2020](https://github.com/J-D-K/JKSV):Data Dump/Restore tool for Switch
 - [ldnmitm config v1.3.3](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v2.11](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [nxdumptool v1.1.8](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
