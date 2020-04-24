@@ -24,7 +24,7 @@ Then extract the whole zip file at the root of your SD card.
 - [ldnmitm config v1.3.3](https://github.com/spacemeowx2/ldn_mitm)
 - [NX-Shell v2.11](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
 - [nxdumptool v1.1.8](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
-- [NXThemes Installer v2.2.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
+- [NXThemes Installer v2.3.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [SX Dumper v2.0.4R](https://sx.xecuter.com): Dump your retail game cartridges
 - [Tinfoil v8.10R36](http://tinfoil.io): A homebrew game, update, and DLC installer
 
@@ -45,7 +45,7 @@ A Custom Firmware for Nintendo Switch.
 
 - [Xecuter SX OS v2.9.5 beta](https://sx.xecuter.com/): Latest OFW supported: 10.0.0
 - Run tinfoil instead of eShop (010000000000100B)
-- [SX Autoloader 1.30 (00FF0012656180FF)](https://team-xecuter.com/community/resources/sx-autoloader.25/updates)
+- [SX Autoloader 1.30 (00FF0012656180FF)](https://team-xecuter.com/community/resources/sx-autoloader.25/updates) (deactivated)
 
 #### Atmosphère
 
