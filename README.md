@@ -43,7 +43,7 @@ Then extract the whole zip file at the root of your SD card.
 
 A Custom Firmware for Nintendo Switch.
 
-- [Xecuter SX OS v2.9.4 beta](https://sx.xecuter.com/): Latest OFW supported: 9.2.0
+- [Xecuter SX OS v2.9.5 beta](https://sx.xecuter.com/): Latest OFW supported: 9.2.0
 - Run tinfoil instead of eShop (010000000000100B)
 - [SX Autoloader 1.30 (00FF0012656180FF)](https://team-xecuter.com/community/resources/sx-autoloader.25/updates)
 
@@ -60,7 +60,7 @@ Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
 Nintendo Switch Bootloader - CTCaer mod.
 
-- [hekate - CTCaer mod v5.1.2 & Nyx v0.8.5](https://github.com/CTCaer/hekate): Latest OFW supported: 9.2.0
+- [hekate - CTCaer mod v5.1.4 & Nyx v0.8.7](https://github.com/CTCaer/hekate): Latest OFW supported: 10.0.0
 
 ## Troubleshootings
 
