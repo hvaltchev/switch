@@ -43,7 +43,7 @@ Then extract the whole zip file at the root of your SD card.
 
 A Custom Firmware for Nintendo Switch.
 
-- [Xecuter SX OS v2.9.5 beta](https://sx.xecuter.com/): Latest OFW supported: 9.2.0
+- [Xecuter SX OS v2.9.5 beta](https://sx.xecuter.com/): Latest OFW supported: 10.0.0
 - Run tinfoil instead of eShop (010000000000100B)
 - [SX Autoloader 1.30 (00FF0012656180FF)](https://team-xecuter.com/community/resources/sx-autoloader.25/updates)
 
@@ -51,7 +51,7 @@ A Custom Firmware for Nintendo Switch.
 
 Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
-- [Atmosphère 0.10.4](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 9.2.0
+- [Atmosphère 0.11.1](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 10.0.0
 - ES and FS SIGPATCHES
 - [ldn_mitm sysmodule v1.3.3 (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
