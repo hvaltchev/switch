@@ -15,16 +15,16 @@ Then extract the whole zip file at the root of your SD card.
 
 - [appstore v2.2](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.7.4](https://github.com/BernardoGiordano/Checkpoint): Fast and simple homebrew save manager for 3DS and Switch
-- [EdiZon v3.0.1](https://github.com/thomasnet-mc/EdiZon): A save editor for Horizon by thomasnet and WerWolv
+- [EdiZon-SE v3.7.6](https://github.com/tomvita/EdiZon-SE): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts d16d36c](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v3.0.0](https://github.com/mtheall/ftpd): FTP Server
 - [Goldleaf v0.8](https://github.com/XorTroll/Goldleaf): 🍂 Nintendo Switch multipurpose homebrew tool
 - [Homebrew Menu v3.3.0](https://github.com/switchbrew/nx-hbmenu): The Nintendo Switch Homebrew Menu
-- [JKSV v06.07.2020](https://github.com/J-D-K/JKSV):Data Dump/Restore tool for Switch
-- [ldnmitm config v1.5.0](https://github.com/spacemeowx2/ldn_mitm)
-- [NX-Shell (Next) v3.1.0](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
-- [nxdumptool v1.1.10](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
-- [NXThemes Installer v2.5](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
+- [JKSV v06.07.2020](https://github.com/J-D-K/JKSV): Data Dump/Restore tool for Switch
+- [ldnmitm config v1.6.0](https://github.com/spacemeowx2/ldn_mitm)
+- [NX-Shell (Next) v3.2.0](https://github.com/joel16/NX-Shell): 3DShell port for the Nintendo Switch
+- [nxdumptool v1.1.12](https://github.com/DarkMatterCore/gcdumptool): Nintendo Switch Game Card Dump Tool
+- [NXThemes Installer v2.5.1](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [SX Dumper v2.0.4R](https://sx.xecuter.com): Dump your retail game cartridges
 - [Tinfoil v8.10R36](http://tinfoil.io): A homebrew game, update, and DLC installer
 
@@ -43,7 +43,7 @@ Then extract the whole zip file at the root of your SD card.
 
 A Custom Firmware for Nintendo Switch.
 
-- [Xecuter SX OS v3.0.4 beta](https://sx.xecuter.com/): Latest OFW supported: 10.1.1
+- [Xecuter SX OS v3.0.5 beta](https://sx.xecuter.com/): Latest OFW supported: 10.2.0
 - Run tinfoil instead of eShop (010000000000100B)
 - [SX Autoloader 1.40 (00FF0012656180FF)](https://team-xecuter.com/community/resources/sx-autoloader.25/updates)
 
@@ -51,16 +51,16 @@ A Custom Firmware for Nintendo Switch.
 
 Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 
-- [Atmosphère 0.14.1](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 10.1.1
-- ES and FS SIGPATCHES
-- [ldn_mitm sysmodule v1.5.0 (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
+- [Atmosphère 0.14.4](https://github.com/Atmosphere-NX/Atmosphere): Latest OFW supported: 10.2.0
+- [ES and FS SIGPATCHES](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-secondary-only.571543/)
+- [ldn_mitm sysmodule v1.6.0 (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
 
 #### hekate
 
 Nintendo Switch Bootloader - CTCaer mod.
 
-- [hekate - CTCaer mod v5.3.2 & Nyx v0.9.3](https://github.com/CTCaer/hekate): Latest OFW supported: 10.1.1
+- [hekate - CTCaer mod v5.3.3 & Nyx v0.9.4](https://github.com/CTCaer/hekate): Latest OFW supported: 10.2.0
 
 ## Troubleshootings
 
