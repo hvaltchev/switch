@@ -46,6 +46,7 @@ A Custom Firmware for Nintendo Switch.
 - [Xecuter SX OS v3.0.5 beta](https://sx.xecuter.com/): Latest OFW supported: 10.2.0
 - Run tinfoil instead of eShop (010000000000100B)
 - [SX Autoloader 1.40 (00FF0012656180FF)](https://team-xecuter.com/community/resources/sx-autoloader.25/updates)
+- [sys-screenuploader v0.0.10 (42000062616B6101)][https://screenuploader.bakatrouble.me]: Completely disabled by default
 
 #### Atmosphère
 
@@ -55,6 +56,7 @@ Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.
 - [ES and FS SIGPATCHES](https://gbatemp.net/threads/sigpatches-for-atmosphere-hekate-fss0-fusee-secondary-only.571543/)
 - [ldn_mitm sysmodule v1.6.0 (4200000000000010)](https://github.com/spacemeowx2/ldn_mitm)
 - Run tinfoil instead of eShop (010000000000100B)
+- [sys-screenuploader v0.0.10 (42000062616B6101)][https://screenuploader.bakatrouble.me]: Completely disabled by default
 
 #### hekate
 
