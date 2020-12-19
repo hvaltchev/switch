@@ -15,6 +15,7 @@ Then extract the whole zip file at the root of your SD card.
 
 - [appstore v2.2](https://github.com/vgmoose/appstorenx): Switch App Store - download/manage homebrew apps for hbmenu
 - [Checkpoint v3.7.4](https://github.com/BernardoGiordano/Checkpoint): Fast and simple homebrew save manager for 3DS and Switch
+- [ChoiDujourNX v1.0.2](https://switchtools.sshnuke.net/): Homebrew for installing Nintendo Switch [firmware update packages](https://darthsternie.net/switch-firmwares/) directly on the console, without burning fuses!
 - [EdiZon-SE v3.7.22](https://github.com/tomvita/EdiZon-SE): A save editor for Horizon by thomasnet and WerWolv
 - [EdiZon ConfigAndScripts d16d36c](https://github.com/WerWolv98/EdiZon_ConfigsAndScripts): The official EdiZon Editor Config and Editor Script repository
 - [ftpd v3.0.0](https://github.com/mtheall/ftpd): FTP Server
