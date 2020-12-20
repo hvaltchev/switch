@@ -28,6 +28,7 @@ Then extract the whole zip file at the root of your SD card.
 - [NXThemes Installer v2.6](https://github.com/exelix11/SwitchThemeInjector): A layout installer for the Nintendo Switch
 - [SX Dumper v2.0.4R](https://sx.xecuter.com): Dump your retail game cartridges
 - [Tinfoil v8.10R36](http://tinfoil.io): A homebrew game, update, and DLC installer
+- [themezer-nx v1.1.2](https://github.com/suchmememanyskill/themezer-nx): A switch theme downloader that pulls from [themezer.net](https://themezer.net)
 
 ### Others
 
