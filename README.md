@@ -35,8 +35,9 @@ Then extract the whole zip file at the root of your SD card.
 
 ### Tools
 
-- [XCI_Trimmer c51a186](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
+- [Lockpick_RCM v1.9.0](https://github.com/shchmue/Lockpick_RCM): Nintendo Switch encryption key derivation bare metal RCM payload
 - [XCI-Explorer v1.5.0](https://github.com/StudentBlake/XCI-Explorer): View contents of XCI files and more
+- [XCI_Trimmer c51a186](https://github.com/AnalogMan151/XCI_Trimmer): Python3 script to trim and pad XCI ROM files
 
 ### CFW
 
